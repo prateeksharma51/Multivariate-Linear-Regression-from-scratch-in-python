@@ -1,2 +1,2 @@
 # Multivariate-Linear-Regression-from-scratch-in-python
-Implementing Multivariate Linear Regression from scratch using python and comparing it with Linear Regression from sklearn. 
+In this repository, you will find an ipython notebook wherein you will find the implementation of Linear Regression with Gradient Desent in pure python code and the comparison between the hardcoded model and the model imported from sklearn. 
